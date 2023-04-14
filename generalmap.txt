@@ -1,0 +1,4 @@
+0.5m: Blueberry
+1.0m: Blueberry
+1.5m: no plants here
+2.0m: no plants here
